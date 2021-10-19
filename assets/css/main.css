@@ -3086,7 +3086,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 		.content{
-			background-color: #E63946;
+			background-color: #ee6c4d;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -3884,7 +3884,7 @@ input, select, textarea {
 /* Me contacter */
 
 #three {
-	background-color:#E63946 ;
+	background-color:#ee6c4d ;
 }
 
 /* Footer */
